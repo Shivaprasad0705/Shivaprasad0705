@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi 👋 I'm Shivaprasad
 
-<!--
-**Shivaprasad0705/Shivaprasad0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Microservices Enthusiast
 
-Here are some ideas to get you started:
+Tech Stack:
+Python | Java | .NET | APIs | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+Microservices Architecture System
+Customer Churn ML Model
+Java Quiz App
+
+Currently learning:
+System Design & Scalable Backend
+
+Goal:
+To become a professional software engineer building real-world systems.
