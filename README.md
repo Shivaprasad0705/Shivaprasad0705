@@ -7,8 +7,11 @@ Python | Java | .NET | APIs | SQL
 
 Projects:
 Microservices Architecture System
-Customer Churn ML Model
+AI Cyber Decption System
 Java Quiz App
+Customer Churn ML Model
+Automation testing using Selanium
+
 
 Currently learning:
 System Design & Scalable Backend
